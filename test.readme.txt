@@ -1,2 +1,3 @@
 This test is to see if Git works
 This one's new
+Added a feature
